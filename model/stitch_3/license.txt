@@ -1,0 +1,11 @@
+Model Information:
+* title:	stitch-1-4
+* source:	https://sketchfab.com/3d-models/stitch-1-4-a1d1cbb7b57945ec961814bea46dea1e
+* author:	YuhanJi (https://sketchfab.com/YuhanJi)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "stitch-1-4" (https://sketchfab.com/3d-models/stitch-1-4-a1d1cbb7b57945ec961814bea46dea1e) by YuhanJi (https://sketchfab.com/YuhanJi) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

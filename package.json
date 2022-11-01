@@ -1,0 +1,11 @@
+{
+	"name": "ar-birthday",
+	"version": "1.0.0",
+	"description": "AR website for Kora birthday",
+	"scripts": {
+		"start": "harp server --port $PORT"
+	},
+	"dependencies": {
+		"harp": "^0.34.0"
+	}
+}

@@ -1,0 +1,11 @@
+Model Information:
+* title:	Stitch
+* source:	https://sketchfab.com/3d-models/stitch-7b9c8b1b126440a2a090fd7f9429bcac
+* author:	electronicfox (https://sketchfab.com/electronicfox)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Stitch" (https://sketchfab.com/3d-models/stitch-7b9c8b1b126440a2a090fd7f9429bcac) by electronicfox (https://sketchfab.com/electronicfox) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

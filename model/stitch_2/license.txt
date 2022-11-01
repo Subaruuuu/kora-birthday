@@ -1,0 +1,11 @@
+Model Information:
+* title:	CoolPaintr VR - Stitch
+* source:	https://sketchfab.com/3d-models/coolpaintr-vr-stitch-ec623e5e155c4dd48211bf3ad5fa28b6
+* author:	Apeinator (https://sketchfab.com/Apeinator)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "CoolPaintr VR - Stitch" (https://sketchfab.com/3d-models/coolpaintr-vr-stitch-ec623e5e155c4dd48211bf3ad5fa28b6) by Apeinator (https://sketchfab.com/Apeinator) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
